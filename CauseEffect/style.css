@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#container{
+    background: sandybrown;
+    width: 80vw;
+    margin: 0px auto;
+}
+
+header h1{
+    text-align: center;
+}
+
+.pessoa{
+    background: rgba(243, 186, 164, 0.623);
+}
+
+section ul{
+    list-style-type: none;
+}
+
+details summary{
+    font-size: 30;
+}
+
+summary:hover{
+    cursor: pointer;
+}
+
+.moreInfo{
+    margin-left: 4rem;
+}
